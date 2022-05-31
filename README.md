@@ -2,7 +2,7 @@
 
 Shop it! Show it! Web3 it!
 
-Web3Shop is a Web3 E-Commerce platform to efficiently connect designers with NFT holders and enthusiasts inside communities. Our platform also enables users to be designers with their creativity and passions.
+Web3Shop is a Web3 Social E-Commerce platform to efficiently connect designers with NFT holders and enthusiasts inside communities. Our platform also enables users to be designers with their creativity and passions.
 
 Demo link: https://web3-e-commerce.vercel.app
 
