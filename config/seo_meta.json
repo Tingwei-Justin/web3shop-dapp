@@ -1,0 +1,25 @@
+{
+  "title": "Web3Shop | Powered by Lab3",
+  "titleTemplate": "%s - Web3Shop",
+  "description": "Next generation of Web3 Social E-commerce",
+  "openGraph": {
+    "title": "Web3Shop | Powered by Lab3",
+    "description": "Web3shop is an e-commerce platform built specifically for web3. We plan to bring designers and users together in a community to design and produce merch together, creating new social relationships and injecting incentive models for social commerce. Web3shop will do away with the drawbacks of web2 e-commerce, returning benefits and power to users, and expanding social commerce by the network to capture growth.",
+    "type": "website",
+    "url": "https://www.web3shop.me/",
+    "site_name": "Web3Shop",
+    "images": [
+      {
+        "url": "/web3shop-banner.png",
+        "width": "800",
+        "height": "600",
+        "alt": "Web3Shop"
+      }
+    ]
+  },
+  "twitter": {
+    "handle": "@web3shop",
+    "site": "@web3shop",
+    "cardType": "summary_large_image"
+  }
+}

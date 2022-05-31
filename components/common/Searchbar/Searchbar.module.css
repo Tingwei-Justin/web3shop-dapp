@@ -1,0 +1,35 @@
+.root {
+  @apply relative text-sm bg-accent-0 text-base w-full transition-colors duration-150 border border-accent-2;
+}
+
+.input {
+  @apply bg-transparent px-8 py-1 appearance-none w-full transition duration-150 ease-in-out pr-10 bg-gray-2 rounded-2xl;
+}
+
+.input::placeholder {
+  @apply text-accent-3;
+}
+
+.input:focus {
+  @apply outline-none shadow-outline-normal rounded-2xl;
+}
+
+.iconContainer {
+  @apply absolute inset-y-0 left-2 pr-3 flex items-center pointer-events-none;
+}
+
+.icon {
+  @apply h-5 w-5;
+}
+
+@screen sm {
+  .input {
+    min-width: 40vh;
+  }
+}
+
+@screen lg {
+  .input {
+    min-width: 80vh;
+  }
+}

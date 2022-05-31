@@ -1,0 +1,20 @@
+.myGasonryGrid {
+  display: -webkit-box; /* Not needed if autoprefixing */
+  display: -ms-flexbox; /* Not needed if autoprefixing */
+  display: flex;
+  margin-left: 0px; /* gutter size offset */
+  width: auto;
+}
+.myGasonryGridColumn {
+  padding-left: 0px; /* gutter size */
+  background-clip: padding-box;
+}
+
+/* Style your items */
+.myGasonryGridColumn > div {
+  /* change div to reference your elements you put in <Masonry> */
+}
+
+.test {
+  @apply text-yellow-400;
+}
