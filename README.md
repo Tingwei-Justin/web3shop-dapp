@@ -24,6 +24,7 @@ Demo link: https://web3-e-commerce.vercel.app
 ## Features Available
 
 - **Follow Soulmates**: for users to follow users, powered by [CyberConnect](https://cyberconnect.me/)
+- **User Social Graph building && recommandition users**: powered by [CyberConnect](https://cyberconnect.me/)
 - **User Profiles**: profiles for user to introduce themselves, powered by [CyberConnect](https://cyberconnect.me/)
 - **Follow Community**: for users to follow the communities.
 - **NFT communities**: for users and designers to connect under NFT topics.
